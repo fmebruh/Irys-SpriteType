@@ -1,6 +1,6 @@
 # SpriteType Auto Typer 🤖
 
-A simple UserScript that automatically plays the [SpriteType](https://spritetype.com/) typing game. The script types the words, handles game restarts, and submits to the leaderboard.
+A simple UserScript that automatically plays the [SpriteType](https://spritetype.irys.xyz/) typing game. The script types the words, handles game restarts, and submits to the leaderboard.
 
 **⚠️ Disclaimer:** This script is for educational purposes only. Using automation on a competitive platform may be against their Terms of Service. Use at your own risk.
 
