@@ -22,7 +22,7 @@ A simple UserScript that automatically plays the [SpriteType](https://spritetype
     * [Get it for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 2.  **Install the Script:**
-    * **[Click here to install the UserScript](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/spritetype-auto-typer.user.js)**
+    * **[Click here to install the UserScript]((https://github.com/fmebruh/Irys-SpriteType/blob/main/spritetype.js))**
     * A new tab will open, and Tampermonkey will ask you to **Install** the script. Click **Install**.
 
 
