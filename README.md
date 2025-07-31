@@ -30,7 +30,7 @@ A simple UserScript that automatically plays the [SpriteType](https://spritetype
 
 ## 🚀 Usage
 
-1.  Navigate to [https://spritetype.com/](https://spritetype.com/).
+1.  Navigate to [[https://spritetype.com/](https://spritetype.irys.xyz/)]([https://spritetype.com/](https://spritetype.irys.xyz/)).
 2.  The script will activate automatically after a short delay.
 3.  It will type all the words, finish the game, and automatically reload the page to play again.
 
